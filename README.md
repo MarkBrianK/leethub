@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MarkBrianK/leethub/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/MarkBrianK/leethub/tree/master/0136-single-number) |
 | [0792-binary-search](https://github.com/MarkBrianK/leethub/tree/master/0792-binary-search) |
 ## Binary Search
 |  |
@@ -55,4 +56,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/MarkBrianK/leethub/tree/master/0141-linked-list-cycle) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/MarkBrianK/leethub/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->

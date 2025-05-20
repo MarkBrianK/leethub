@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/MarkBrianK/leethub/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/MarkBrianK/leethub/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/MarkBrianK/leethub/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/MarkBrianK/leethub/tree/master/0242-valid-anagram) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/MarkBrianK/leethub/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0242-valid-anagram](https://github.com/MarkBrianK/leethub/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/MarkBrianK/leethub/tree/master/0344-reverse-string) |
 ## Sorting
@@ -97,4 +99,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/MarkBrianK/leethub/tree/master/0238-product-of-array-except-self) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/MarkBrianK/leethub/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
